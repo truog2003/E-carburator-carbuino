@@ -10,4 +10,4 @@ To work with:
 * 1 electronic pedal vw (gol) optional
 * 1 EFI monopoint VW AP 1.8 TBI + injector + TPS
 
-Work like a carburator, NO ignition control NO RPM control NO sonda lanbda control, just a single/simple electronic carburator :)
+Work like the old way ... NO ignition control NO RPM control NO sonda lambda control, just a single/simple electronic carburator, drive by wire :)
