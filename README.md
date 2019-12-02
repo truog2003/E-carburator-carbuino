@@ -8,5 +8,6 @@ To work with:
 * 20kgf RC waterproof servo optional
 * 2 solid state relay DC-DC 30-40A (for pump fuel and stater motor)
 * 1 electronic pedal vw (gol) optional
-* 1 EFI monopoint VW AP 1.8 TBI + injector
+* 1 EFI monopoint VW AP 1.8 TBI + injector + TPS
 
+Work like a carburator, NO ignition control NO RPM control NO sonda lanbda control, just a single/simple electronic carburator :)
