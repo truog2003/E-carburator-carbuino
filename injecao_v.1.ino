@@ -1,4 +1,5 @@
-/* https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM
+/* By Truog2003 - e_carburator project
+   https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM
    https://create.arduino.cc/example/library/servo_1_1_5/servo_1_1_5%5Cexamples%5CKnob/Knob/preview
 */
 
