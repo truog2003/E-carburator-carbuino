@@ -1,4 +1,7 @@
 /*
+
+https://youtu.be/u2uJMJWsfsg
+
 Tachometer using micros
 
 On this sketch we are going to measure the period between pulses using the micros() function to get the RPM
